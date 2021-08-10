@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rravg (Rodrigo Villalobos)
+- 👋 Hi, I’m @Rravg (Rodrigo Villalobos) from El Salvador
 - 👀 I’m interested in Physics/Mathematics/Computer Science and Coding
 - 🌱 I’m currently learning programming! :)
 
