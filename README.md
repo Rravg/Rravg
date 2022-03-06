@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rravg (Rodrigo Villalobos) from El Salvador
 - 👀 I’m interested in Physics/Mathematics/Computer Science and Coding
-- 🌱 I’m currently learning programming! :)
+- 🌱 I’m currently learning to code! :)
 
 <!---
 Rravg/Rravg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
