@@ -20,3 +20,5 @@
 ## GitHub Stats
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rravg&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Rravg)
