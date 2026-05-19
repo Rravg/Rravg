@@ -19,6 +19,13 @@
 
 ## GitHub Stats
 
-![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rravg&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rravg&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rravg&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rravg&theme=tokyonight&hide_border=true" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rravg)
