@@ -33,3 +33,11 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rravg&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rravg&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rravg&label=Profile%20views&color=blueviolet&style=flat" />
+</p>
