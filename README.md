@@ -41,3 +41,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rravg&label=Profile%20views&color=blueviolet&style=flat" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rravg&theme=tokyo-night&hide_border=true" />
+</p>
